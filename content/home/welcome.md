@@ -7,9 +7,9 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  Wowchemy  
-  Research Group
-hero_media: welcome.jpg
+  Microbial Ecology 
+  Research @ ECNU
+hero_media: 001_pure_methanotrophs.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -20,4 +20,4 @@ design:
 
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+The **SMB Krause Lab** focuses on multidisciplinary approaches to study the relationship between biodiversity and ecosystem processes in synthetic model microbial communities and simple environmental communities. We have been thriving for excellence in research and teaching since its founding in 2019.
